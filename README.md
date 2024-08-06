@@ -1,5 +1,7 @@
 # 🚗 Smart Parking Assistant 🚗
 
+![Smart parking assitant](https://github.com/user-attachments/assets/2f5b9c30-dca9-4eb6-8bda-0e5984f3cf11)
+
 ## Overview
 Smart Parking Assistant is an IoT-based project that uses Arduino and multiple IR sensors to detect available parking spots and provide real-time recommendations to drivers. This system aims to optimize parking space utilization and reduce the time spent searching for parking spots.
 
